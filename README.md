@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @midth002
-- 👀 I’m a software developer
+- 👀 Im a full stack software developer. I love the aspect of building applications that are useful, beautiful, and makes our lives a little easier.
 - 🌱 I have experience using javascript, NodeJS, React, Java, mySQL, and NoSQL.
 - You can contact me via email at midthun23@gmail.com
 
